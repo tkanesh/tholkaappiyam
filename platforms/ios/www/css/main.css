@@ -1,0 +1,148 @@
+
+/* CSS Document */
+
+* {
+
+    margin:0px;	
+}
+
+.carouselLeft {	
+    display:none;
+    background:url(../images/carousel/rotate-left.png);	
+    width:40px; height:40px;
+    background-position: 0px 0px;
+}
+.carouselLeft:hover {		
+    width:40px; height:40px;
+    background-position: 0px 40px;
+    cursor:auto;
+}
+.carouselRight {
+    display:none;
+    background:url(../images/carousel/rotate-right.png);	
+    width:40px; height:40px;
+    background-position: 0px 0px;
+}
+.carouselRight:hover {	
+    width:40px; height:40px;
+    background-position: 0px 40px;
+}
+/****************************************/
+
+#da-vinci-title {
+    display:none;	
+    color:#f90;
+    font-family:Georgia, "Times New Roman", Times, serif;
+    font-size:17px;
+    font-weight:bold;
+    margin:20px;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    margin-bottom:10px;
+    width:80%;
+}
+#da-vinci-alt{
+    display:none;	
+    color:#ddd;
+    margin:20px;
+    margin-top:0px;
+    font-size:14px;
+    font-weight:bold;
+
+}
+
+a, a:focus, a:active {
+
+    outline: 0 none;
+    border:none;
+
+}
+
+body { overflow-x: hidden; }
+#b {
+    margin: 1px;
+}
+#content {
+    background: none repeat scroll 0 0 #FFFFFF;
+}
+/*****************************************************/
+
+.nav-glyphish-example .ui-btn .ui-btn-inner {
+    padding-top: 30px !important;
+}
+.nav-glyphish-example .ui-btn .ui-icon {
+    width: 30px!important;
+    height: 30px!important;
+    margin-left: -15px !important;
+    box-shadow: none!important;
+    -moz-box-shadow: none!important;
+    -webkit-box-shadow: none!important;
+    -webkit-border-radius: none !important;
+    border-radius: none !important;
+}
+#homes .ui-icon {
+    background:  url(../img/tab_home.png) 50% 50% no-repeat;
+    background-size: 22px 22px;
+}
+
+#homes .ui-btn-text{
+    color:#8bc53f;font-weight: normal;
+}
+
+#homeselected .ui-icon {
+    background:  url(../img/tab_home_selected.png) 50% 50% no-repeat;
+    background-size: 22px 22px;
+}
+
+#homeselected .ui-btn-text{
+    color:#ffffff;font-weight: normal;
+}
+
+#foods .ui-icon {
+    background:  url(../img/tab_food.png) 50% 50% no-repeat;
+    background-size: 22px 22px;
+}
+
+#foods .ui-btn-text{
+    color:#8bc53f;font-weight: normal;
+}
+
+#foodselected .ui-icon {
+    background:  url(../img/tab_food_selected.png) 50% 50% no-repeat;
+    background-size: 22px 22px;
+}
+
+#foodselected .ui-btn-text{
+    color:#ffffff;font-weight: normal;
+}
+
+#activity .ui-icon {
+    background:  url(../img/tab_activity.png) 50% 50% no-repeat;
+    background-size: 22px 22px;
+}
+
+#activity .ui-btn-text{
+    color:#8bc53f;font-weight: normal;
+}
+
+
+#rewards .ui-icon {
+    background:  url(../img/tab_rewards.png) 50% 50% no-repeat;
+    background-size: 22px 22px;
+}
+
+#rewards .ui-btn-text{
+    color:#8bc53f;font-weight: normal;
+}
+
+#more .ui-icon {
+    background:  url(../img/tab_more.png) 50% 50% no-repeat;
+    background-size: 22px 22px;
+}
+
+#more .ui-btn-text{
+    color:#8bc53f;font-weight: normal;
+}
+
+
+

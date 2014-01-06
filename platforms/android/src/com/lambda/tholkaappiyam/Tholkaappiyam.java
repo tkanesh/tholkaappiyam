@@ -22,12 +22,13 @@ package com.lambda.tholkaappiyam;
 import android.os.Bundle;
 import org.apache.cordova.*;
 
-public class Tholkaappiyam extends DroidGap
+public class Tholkaappiyam extends CordovaActivity 
 {
     @Override
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
+        super.init();
         // Set by <content src="index.html" /> in config.xml
         super.loadUrl(Config.getStartUrl());
         //super.loadUrl("file:///android_asset/www/index.html")

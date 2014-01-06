@@ -1,0 +1,116 @@
+
+
+label.error {
+    float: left;
+    color: red;
+    padding-top: .5em;
+    vertical-align: top;
+    font-weight:bold;
+    font-size:8pt;
+}
+.center-wrapper {
+    text-align: center;
+}
+
+.center-wrapper * {
+    margin: 0 auto;
+}
+
+@media ( max-width : 700px) {
+    .hideInMobile {
+        display: none
+    }
+}
+
+.fileinput-button {
+    position: relative;
+    overflow: hidden;
+    float: left;
+    margin-right: 4px;
+}
+.fileinput-button input {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    transform: translate(-300px, 0) scale(4);
+    font-size: 10px;
+    direction: ltr;
+    cursor: pointer;
+}
+
+
+
+.example {   margin: 0px -20px 20px  }
+.example p { margin: 15px 0 0; }
+.example p:first-child { margin: 0; }
+
+.rounded-corners {
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    border-radius: 20px;
+}
+
+
+.ui-slider {
+    /* width : 50% !important; */
+    /* background : #36a348;*/
+}
+input.ui-slider-input {
+    /*    display : none !important;*/
+
+}
+.ui-slider-handle {
+    /* background : red;*/
+}
+
+.ui-slider-track{
+    margin:3px 65px 0px 15px;
+
+}
+
+input.ui-input-text.ui-slider-input{
+    float:right;
+}
+
+div.ui-btn-active{
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#36a348),to(#36a348)) !important;
+
+}
+
+.dialogContent{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    width: 280px;
+    height: auto;
+    padding: 0px;
+    border: 1px solid orange;
+    background-color: white;
+    z-index:1002;
+    overflow: auto;
+    display: none;
+     margin-left: -140px; /* 505 / 2 */
+}
+
+.dialogBackground{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    display:none;
+    background-color: black;
+    z-index:1001;
+    -moz-opacity: 0.8;
+    opacity:.80;
+    filter: alpha(opacity=80);
+}
+
+
+
+
+
