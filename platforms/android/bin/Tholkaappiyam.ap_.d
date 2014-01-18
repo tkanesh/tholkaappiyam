@@ -56,7 +56,7 @@
 /Users/Kanesh/NetBeansProjects/tholkaappiyam/platforms/android/assets/www/img/ads.jpg \
 /Users/Kanesh/NetBeansProjects/tholkaappiyam/platforms/android/assets/www/img/animation \
 /Users/Kanesh/NetBeansProjects/tholkaappiyam/platforms/android/assets/www/img/apilinx.png \
-/Users/Kanesh/NetBeansProjects/tholkaappiyam/platforms/android/assets/www/img/appibuddy.png \
+/Users/Kanesh/NetBeansProjects/tholkaappiyam/platforms/android/assets/www/img/tholkaapiyam.png \
 /Users/Kanesh/NetBeansProjects/tholkaappiyam/platforms/android/assets/www/img/bg.png \
 /Users/Kanesh/NetBeansProjects/tholkaappiyam/platforms/android/assets/www/img/btn_facebook.png \
 /Users/Kanesh/NetBeansProjects/tholkaappiyam/platforms/android/assets/www/img/btn_twitter.png \

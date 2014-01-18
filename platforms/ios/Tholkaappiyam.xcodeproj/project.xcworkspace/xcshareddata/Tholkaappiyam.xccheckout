@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ED1FD5EC-FA01-4EA2-AF1C-85854F8836BA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Tholkaappiyam</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B10DA65E-21DC-4084-9C56-30489F77831B</key>
+		<string>https://github.com/kanesh78/tholkaappiyam.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/Tholkaappiyam.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B10DA65E-21DC-4084-9C56-30489F77831B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kanesh78/tholkaappiyam.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B10DA65E-21DC-4084-9C56-30489F77831B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B10DA65E-21DC-4084-9C56-30489F77831B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tholkaappiyam</string>
+		</dict>
+	</array>
+</dict>
+</plist>
